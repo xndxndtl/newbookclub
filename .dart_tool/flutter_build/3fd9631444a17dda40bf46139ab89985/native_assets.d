@@ -1,0 +1,1 @@
+ C:\\Users\\82103\\AppData\\Roaming\\FlutterFlow\\flutterflow\\newbookclub\\.dart_tool\\flutter_build\\3fd9631444a17dda40bf46139ab89985\\native_assets.yaml: 
